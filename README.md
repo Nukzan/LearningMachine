@@ -13,3 +13,5 @@
 ## 3. 주최/주관
 - 주최 : (재)제주테크노파크
 - 주관 : DACON
+
+https://dacon.io/competitions/official/235615/overview/
